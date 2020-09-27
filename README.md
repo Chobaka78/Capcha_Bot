@@ -1,3 +1,3 @@
-# Capcha_Bot
+# Captcha_Bot
 
 #Making a basic capchaBot 
